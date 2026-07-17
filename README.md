@@ -1,2 +1,36 @@
 # jaurny-OpenQuality-Datasets
-A curated list of open datasets for quality big data, industrial quality, defect detection, and reliability analysis.
+# jaurny-OpenQuality-Datasets
+
+本项目整理与 OpenQuality“大质量”主题相关的公开数据集，重点关注工业质量、制造质量、缺陷检测、设备健康监测、半导体良率分析、可靠性工程等方向。
+
+## 项目目标
+
+- 收集公开可访问的质量相关数据集
+- 整理每个数据集的来源、类型、应用方向和公开链接
+- 为质量大数据、智能制造、工业 AI、可靠性分析和故障诊断研究提供参考
+- 支持 OpenQuality 项目的资源共建与持续扩展
+
+## 数据集方向
+
+目前主要覆盖以下类别：
+
+- 制造过程质量预测
+- 工业视觉缺陷检测
+- 钢铁、PCB、纺织等表面质量检测
+- 半导体质量与良率分析
+- 设备健康监测与故障诊断
+- 可靠性分析与预测性维护
+
+## 数据集清单
+
+完整数据集列表见：
+
+[datasets.md](./datasets.md)
+
+## 使用说明
+
+本项目主要整理公开数据集的信息和链接，不直接重新分发原始数据。使用相关数据集时，请遵守原始数据集的许可证、引用要求和使用限制。
+
+## 与 OpenQuality 的关系
+
+OpenQuality 关注“大质量”主题，包括工业质量、数据质量、软件质量、AI质量、可靠性和质量管理等方向。本项目作为 OpenQuality 的数据集资源整理部分，为相关研究、教学和项目实践提供基础数据资源索引。
