@@ -19,3 +19,33 @@
 | 11 | WM-811K | 晶圆图数据 | 半导体良率分析 | 晶圆缺陷模式识别 | 常用于晶圆缺陷图谱识别、半导体良率分析和制造过程异常模式挖掘。 | https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map |
 | 12 | NASA C-MAPSS | 时间序列数据 | 设备健康与可靠性 | 剩余寿命预测、故障预测 | 航空发动机退化仿真数据集，常用于设备健康管理、可靠性分析和预测性维护研究。 | https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq |
 Add OpenQuality dataset list
+## 制造过程质量预测
+
+### SECOM
+
+- 数据类型：表格数据
+- 质量主题：半导体制造质量
+- 适合任务：质量预测、二分类、特征选择
+- 简介：SECOM 数据集来自半导体制造过程，包含大量工艺与传感器特征，标签表示产品是否合格，适合用于高维质量预测和制造过程建模。
+- 链接：https://archive.ics.uci.edu/dataset/179/secom
+
+### Bosch Production Line Performance
+
+- 数据类型：表格数据
+- 质量主题：生产线质量预测
+- 适合任务：故障预测、异常检测、二分类
+- 简介：该数据集来自 Bosch 生产线，包含多工位测量数据，用于预测产品是否会出现内部失效，是制造质量大数据建模的典型案例。
+- 链接：https://www.kaggle.com/c/bosch-production-line-performance
+
+
+## 工业视觉缺陷检测
+
+### MVTec AD
+
+- 数据类型：图像数据
+- 质量主题：工业视觉异常检测
+- 适合任务：异常检测、缺陷定位、图像分割
+- 简介：MVTec AD 是工业异常检测领域的经典数据集，包含多类工业物体和纹理图像，提供正常样本、异常样本和像素级标注。
+- 链接：https://www.mvtec.com/company/research/datasets/mvtec-ad
+
+  
